@@ -1,0 +1,1 @@
+Download a model from here: https://alphacephei.com/vosk/models, do UNZIP IT, and rename the unzipped directory to: "LANG-CODE.model".

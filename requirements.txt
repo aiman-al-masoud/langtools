@@ -1,0 +1,8 @@
+pytesseract
+vosk
+argostranslate
+pyttsx3
+ffmpeg-python
+sounddevice
+soundfile
+pytest
